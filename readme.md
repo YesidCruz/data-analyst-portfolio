@@ -1,2 +1,3 @@
 *Formulas DAX
+
 **Organizados Semana
