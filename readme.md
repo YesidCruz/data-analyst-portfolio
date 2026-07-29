@@ -2,4 +2,7 @@
 
 ##Organizados Semana
 
-OrdenSemana = VALUE( SUBSTITUTE( PRUEBA1[Semana], "Semana ", "" ) )
+| Semana | Apps |
+| 2 | Excel |
+| 4 | Power Bi |
+| 5 | share |
